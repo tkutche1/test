@@ -1,6 +1,0 @@
-# !/usr/bin/sh
-
-# hello.sh - Hello world shell script
-
-echo "Hello, World!"
-

@@ -4,7 +4,7 @@ for dir in */
 do
     echo $dir
     cd $dir
-    ./hello
+    sh run.sh
     cd ..
     echo "--\n"
 done
