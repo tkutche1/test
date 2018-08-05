@@ -1,4 +1,6 @@
 # !/usr/bin/sh
 
-echo "Hello, World!"
+# Tim Kutcher
+# Shell/run.sh
 
+sh hello.sh

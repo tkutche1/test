@@ -1,4 +1,9 @@
-(* hello.ml - OCaml hello world program. *)
+(* Tim Kutcher
+ * hello.ml - Hello world in OCaml.
+ *)
 
-print_string "Hello, World!\n";;
+let hello name =
+    Printf.printf "Hello, World! My name is %s\n" name
+;;
 
+hello "OCaml"

@@ -1,3 +1,4 @@
+# Tim Kutcher
 # Makefile
 
 CXXFLAGS = -Wpedantic -Wall -Wextra -std=c++11 -O2

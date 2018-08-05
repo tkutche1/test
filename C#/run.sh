@@ -1,6 +1,10 @@
 # !/usr/bin/sh
 
-mcs hello.cs
-mv hello.exe hello
-./hello
-rm -rf hello
+# Tim Kutcher
+# C#/run.sh
+
+mcs Hello.cs
+mv Hello.exe Hello
+mono Hello
+# ./Hello
+rm -f Hello

@@ -1,3 +1,4 @@
+# Tim Kutcher
 # Makefile
 
 CFLAGS = -Wpedantic -Wall -Wextra -std=c11 -O2

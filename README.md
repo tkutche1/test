@@ -3,7 +3,7 @@
 
 ---
 
-Test repository has test hello worlds.
+Test Repository of Hello World Programs
 
 ---
 
@@ -14,6 +14,6 @@ Test repository has test hello worlds.
 * Java
 * OCaml
 * Python
+* R
 * Shell
-
-
+* Swift
